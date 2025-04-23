@@ -74,6 +74,7 @@ public class ForeignWorkerManager {
         inputPanel.add(new JLabel(" Дата найма (YYYY-MM-DD):"));
         inputPanel.add(employmentField);
 // как сместить кнопку?
+        //как сместить кнопку????????
 
         JButton addButton = new JButton("Добавить работника");
         addButton.addActionListener(new ActionListener() {
